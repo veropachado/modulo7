@@ -24,6 +24,6 @@
     <form action="SvEliminar" method="Post">
         <p><label>Id:</label><input type="text" name:"id_eliminar"></p>
         <button type="submit">Eliminar</button>     
-    </form  
+    </form>  
     </body>
 </html>
