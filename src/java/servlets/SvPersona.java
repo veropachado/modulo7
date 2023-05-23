@@ -41,6 +41,7 @@ public class SvPersona extends HttpServlet {
         String nombre=request.getParameter("nombre");
         String apellido=request.getParameter("apellido");
         String telefono=request.getParameter("telefono");
+        System.out.println(dni);
         
         Persona pers = new Persona(0,dni, nombre, apellido, telefono);
         control.crearPersona(pers);

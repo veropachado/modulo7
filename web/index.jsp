@@ -8,11 +8,11 @@
     <body>
         <h1>Ingrese datos de la persona</h1>
         <form action="SvPersona" method="Post">
-        <p><label>Dni:</label><input type="text" name:"dni"></p>
-        <p><label>Nombre:</label><input type="text" name:"nombre"></p>
-        <p><label>Apellido:</label><input type="text" name:"apellido"></p>
-        <p><label>Telefono:</label><input type="text" name:"telefono"></p>
-        <button type:"submit">Enviar</button>
+        <p><label>Dni:</label><input type="text" name="dni"></p>
+        <p><label>Nombre:</label><input type="text" name="nombre"></p>
+        <p><label>Apellido:</label><input type="text" name="apellido"></p>
+        <p><label>Telefono:</label><input type="text" name="telefono"></p>
+        <button type="submit">Enviar</button>
         </form>
     <h1>Ver lista de Personas</h1>
     <p>Si desea ver el listado de personas haga click en el boton Mostrar Personas</p>
@@ -22,7 +22,7 @@
     <h1>Eliminar Personas</h1>
     <p>Ingrese el id de la persona a eliminar</p>
     <form action="SvEliminar" method="Post">
-        <p><label>Id:</label><input type="text" name:"id_eliminar"></p>
+        <p><label>Id:</label><input type="text" name="id_eliminar"></p>
         <button type="submit">Eliminar</button>     
     </form>  
     </body>

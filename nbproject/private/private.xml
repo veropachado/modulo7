@@ -2,6 +2,16 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/Argentina%20Programa/Veronica/WebAppMasterClass/src/java/servlets/SvPersona.java</file>
+            <file>file:/C:/Users/Argentina%20Programa/Veronica/WebAppMasterClass/web/index.jsp</file>
+            <file>file:/C:/Users/Argentina%20Programa/Veronica/WebAppMasterClass/src/java/logica/Controladora.java</file>
+            <file>file:/C:/Users/Argentina%20Programa/Veronica/WebAppMasterClass/web/verPersonas.jsp</file>
+            <file>file:/C:/Users/Argentina%20Programa/Veronica/WebAppMasterClass/src/java/servlets/SvEliminar.java</file>
+            <file>file:/C:/Users/Argentina%20Programa/Veronica/WebAppMasterClass/src/java/persistencia/exceptions/NonexistentEntityException.java</file>
+            <file>file:/C:/Users/Argentina%20Programa/Veronica/WebAppMasterClass/src/java/logica/Persona.java</file>
+            <file>file:/C:/Users/Argentina%20Programa/Veronica/WebAppMasterClass/src/java/persistencia/exceptions/PreexistingEntityException.java</file>
+            <file>file:/C:/Users/Argentina%20Programa/Veronica/WebAppMasterClass/src/java/persistencia/exceptions/IllegalOrphanException.java</file>
+        </group>
     </open-files>
 </project-private>
